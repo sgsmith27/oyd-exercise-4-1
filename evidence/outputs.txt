@@ -1,0 +1,4 @@
+log_archive_bucket_arn = "arn:aws:s3:::sgsmith27-oyd-log-archive-dev"
+log_archive_bucket_name = "sgsmith27-oyd-log-archive-dev"
+user_events_table_arn = "arn:aws:dynamodb:us-west-2:577133972654:table/oyd-user-events-dev"
+user_events_table_name = "oyd-user-events-dev"

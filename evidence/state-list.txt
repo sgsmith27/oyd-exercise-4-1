@@ -1,0 +1,7 @@
+module.log_archive.data.aws_iam_policy_document.deny_insecure_transport
+module.log_archive.aws_s3_bucket.this
+module.log_archive.aws_s3_bucket_lifecycle_configuration.this
+module.log_archive.aws_s3_bucket_policy.deny_insecure_transport
+module.log_archive.aws_s3_bucket_server_side_encryption_configuration.this
+module.log_archive.aws_s3_bucket_versioning.this
+module.user_events.aws_dynamodb_table.this
